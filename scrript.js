@@ -2,7 +2,6 @@ let body = document.getElementsByTagName("body")[0]
 function change(name)
 {
     body.style.backgroundColor = name;
-
 }
 function random()
 {
