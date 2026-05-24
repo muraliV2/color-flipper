@@ -39,7 +39,6 @@ body
     width: 100px;
     border: solid 1px black;
     background: linear-gradient(to right, red, blue);
-
     color: white;
 }
 button
